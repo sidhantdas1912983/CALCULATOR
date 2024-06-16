@@ -1,0 +1,10 @@
+C:\Users\sidha\OneDrive\Desktop\C#\Calculator app\bin\Debug\Calculator app.exe.config
+C:\Users\sidha\OneDrive\Desktop\C#\Calculator app\bin\Debug\Calculator app.exe
+C:\Users\sidha\OneDrive\Desktop\C#\Calculator app\bin\Debug\Calculator app.pdb
+C:\Users\sidha\OneDrive\Desktop\C#\Calculator app\obj\Debug\Calculator app.csproj.AssemblyReference.cache
+C:\Users\sidha\OneDrive\Desktop\C#\Calculator app\obj\Debug\Calculator_app.Form1.resources
+C:\Users\sidha\OneDrive\Desktop\C#\Calculator app\obj\Debug\Calculator_app.Properties.Resources.resources
+C:\Users\sidha\OneDrive\Desktop\C#\Calculator app\obj\Debug\Calculator app.csproj.GenerateResource.cache
+C:\Users\sidha\OneDrive\Desktop\C#\Calculator app\obj\Debug\Calculator app.csproj.CoreCompileInputs.cache
+C:\Users\sidha\OneDrive\Desktop\C#\Calculator app\obj\Debug\Calculator app.exe
+C:\Users\sidha\OneDrive\Desktop\C#\Calculator app\obj\Debug\Calculator app.pdb
